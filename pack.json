@@ -2,10 +2,10 @@
   "title": "Profile Pictures",
   "images": [
     { "name": "Unit 1",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp.png" },
-    { "name": "Unit 1 ALT",   "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp2.png" },
-    { "name": "Unit 1 ALT 2",   "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp3.png" }
-    { "name": "Gundam Aerial",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/gundampfp.png" },
-    { "name": "Komi",   "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/komisanpfp.png" },
-    { "name": "MaoMao",   "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/maomaopfp.png" }
+    { "name": "Unit x",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp2.png" },
+    { "name": "AltU ",   "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp3.png" }
+    { "name": "Gundam",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/gundampfp.png" },
+    { "name": "Komi",    "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/komisanpfp.png" },
+    { "name": "MaoMao",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/maomaopfp.png" }
   ]
 }
