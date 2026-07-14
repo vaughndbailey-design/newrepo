@@ -1,6 +1,6 @@
 {
   "title": "Profile Pictures",
-  "main": [
+  "images": [
     { "name": "Unit 1",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp.png" },
     { "name": "Unit x",  "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp2.png" },
     { "name": "AltU ",   "url": "https://raw.githubusercontent.com/vaughndbailey-design/newrepo/refs/heads/main/evapfp3.png" }
